@@ -1,0 +1,19 @@
+body {
+  font-family: pt-sans-narrow, sans-serif;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.current-section-name {
+  font-size: 30px;
+  line-height: 42px;
+  color: rgb(0, 0, 0);
+  text-transform: uppercase;
+  }
+
+.choose-name {
+  font-size: 24px;
+  line-height: 30px;
+  color: rgb(0, 0, 0);
+  text-transform: uppercase;
+  }
